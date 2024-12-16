@@ -10,8 +10,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        backgroundColor:"#1A5319",
+        textColor:"#D6EFD8",
+       
       },
     },
   },
   plugins: [],
 };
+
+
